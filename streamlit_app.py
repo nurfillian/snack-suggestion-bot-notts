@@ -32,10 +32,9 @@ sweet_snack_dict = {
     "Pisang goreng": "Banana. Fried. Period.",
     "Klepon": "Tiny bursts of joy—like hope, but chewy.",
     "Putri salju": "It melts away your stress. Almost.",
-    "Sago gula melaka": "Gentle, sweet, and quiet. Like a warm nap."
+    "Sago gula melaka": "Gentle, sweet, and quiet. Like a warm nap.",
     "Roti Bakar Kekinian": "This is toast that went to art school and got sponsored by Ovomaltine."
 }
-
 savory_snack_dict = {
     "Sate Taichan": "Grilled, spicy, and commitment-free—just how you like your situationships.",
     "Seblak Jeletot": "Spicy noodle soup that fights back. If you cry, it’s working.",
